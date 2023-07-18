@@ -8,6 +8,16 @@ For golang Bristol++
 
 [https://github.com/nickjwhite/jobtalk-golangbristol2023](https://github.com/nickjwhite/jobtalk-golangbristol2023)
 
+# Contents
+
+- My history
+- CV
+- Coverletter
+- Interviews
+  - Cultural
+  - Technical
+  - Coding tests
+
 # Where I'm coming from
 
 I had a relatively unusual career trajectory.
@@ -55,6 +65,16 @@ Use a bit of colour and space to make it flow - you may not be applying for a de
 Bullet points are better than paragraphs - this will be skimmed by a busy person.
 
 Remember there is a good chance it won't be a developer reading it, so don't feel ashamed to include all the buzzwords you need to.
+
+# Cover letter
+
+Keep it short and simple.
+
+Start with key technologies you use and like.
+
+Mention one or two key things you did that are impressive and relevant from the most recent couple of jobs.
+
+Mention why you're interested in the job.
 
 # Interview
 
