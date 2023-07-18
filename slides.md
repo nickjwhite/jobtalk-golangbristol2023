@@ -1,18 +1,13 @@
 ---
 title: Getting hired for a Go job
+subtitle: |
+    A corpo-friendly talk \
+    \
+    https://github.com/nickjwhite/jobtalk-golangbristol2023
 author: Nick White
+date: 2023-07-19
 aspectratio: 169
 ---
-
-# Getting hired for a Go job
-
-A corpo-friendly talk by Nick White
-
-For golang Bristol++
-
-2023-07-19
-
-[https://github.com/nickjwhite/jobtalk-golangbristol2023](https://github.com/nickjwhite/jobtalk-golangbristol2023)
 
 # Contents
 
