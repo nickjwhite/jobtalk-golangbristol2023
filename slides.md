@@ -1,3 +1,9 @@
+---
+title: Getting hired for a Go job
+author: Nick White
+aspectratio: 169
+---
+
 # Getting hired for a Go job
 
 A corpo-friendly talk by Nick White
@@ -26,7 +32,7 @@ Studied religion and anthropology at university.
 
 Did a couple of years doing web development and system administration.
 
-Then spent 10 years as the sole software developer for niche research projects in Classics and English.
+Then spent 10 years as the sole software developer for several niche research projects at universities, in Classics and English.
 
 # I wanted a change
 
